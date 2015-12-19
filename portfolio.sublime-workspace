@@ -1,0 +1,177 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/John/Desktop/project5/UndergraduateStudent.java",
+		"/C/Users/John/Desktop/project5/Student.java",
+		"/C/Users/John/Desktop/project5/HighSchoolStudent.java",
+		"/C/Users/John/Desktop/project5/GraduateStudent.java",
+		"/C/Users/John/Downloads/DiagonAlleyGuide.java",
+		"/C/Users/John/Desktop/project5/Project5.java",
+		"/C/Users/John/Desktop/ncedc/ncedc.pl",
+		"/C/Users/John/workspace/project5/src/project5/Student.java",
+		"/C/Users/John/workspace/project5/src/project5/UndergraduateStudent.java",
+		"/C/Users/John/workspace/project5/src/project5/HighSchoolStudent.java",
+		"/C/Users/John/workspace/project5/src/project5/GraduateStudent.java",
+		"/C/Users/John/workspace/project5/src/project5/Project5.java",
+		"/C/Users/John/AppData/Local/Temp/Temp1_project3_jlhbaseball15.zip/DiagonAlleyGuide.java",
+		"/C/Users/John/Desktop/Gaia.js/main.css",
+		"/C/Users/John/Downloads/project4_jlhbaseball15/Pokedex.java",
+		"/C/Users/John/Downloads/project4_jlhbaseball15/Project4.java",
+		"/C/Users/John/Desktop/Gaia.js/monty_train.js",
+		"/C/Users/John/Desktop/Gaia.js/clarifai-basic.js",
+		"/C/Users/John/Desktop/Gaia.js/index.html",
+		"/C/Users/John/Desktop/Gaia.js/train-cars.js",
+		"/C/Users/John/Desktop/Gaia.js/main.js",
+		"/C/Users/John/Desktop/Gaia.js/sweetalert.css",
+		"/C/Users/John/Desktop/Gaia.js/sweetalert.min.js",
+		"/C/Users/John/Desktop/Gaia.js/js/gaia.js",
+		"/C/Users/John/Documents/haven's happening/starter-template/css/materialize.css",
+		"/C/Users/John/Documents/haven's happening/starter-template/js/materialize.js",
+		"/C/Users/John/Documents/haven's happening/starter-template/js/init.js",
+		"/C/Users/John/Documents/haven's happening/starter-template/index.html",
+		"/C/Users/John/Documents/haven's happening/index.html",
+		"/C/Users/John/Desktop/monty.js",
+		"/C/Users/John/Documents/haven's happening/starter-template/css/style.css",
+		"/C/Users/John/Documents/test.html",
+		"/C/Users/John/Downloads/react-0.13.3/examples/basic-commonjs/index.js",
+		"/C/Users/John/Downloads/react-0.13.3/examples/basic/index.html",
+		"/C/Users/John/Downloads/react-0.13.3/examples/basic-commonjs/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new-car",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
